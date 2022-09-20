@@ -4,15 +4,15 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
-"assets/AssetManifest.json": "22c0396f0e23fdeed80bb18615f564db",
+"assets/AssetManifest.json": "eba32caf4d55e5621c910570e5fa35ae",
 "assets/assets/audio/goal_audio.mp3": "b66880fee4ed916899b025b282f72e24",
-"assets/assets/crveni.png": "23ef57f03ab939c29f2896e478afea75",
 "assets/assets/pic/background.jpg": "4068622a70084dd62c4e3e7d8cd0f388",
+"assets/assets/pic/crveni.png": "23ef57f03ab939c29f2896e478afea75",
 "assets/assets/pic/defaultPlayer.png": "0819ffff89e50b1691a79ff2b05c7e0c",
 "assets/assets/pic/subGif.gif": "8932f3aa821fc6d753f86a616a235481",
+"assets/assets/pic/zuti.png": "4dc8eabef772077699b8dfadd7c15129",
 "assets/assets/video/goal_video.mp4": "efa0c80078daec04b0ab87131c25a400",
 "assets/assets/video/hep_reklama.mp4": "09447e59730fcbcf2282838170097b10",
-"assets/assets/zuti.png": "4dc8eabef772077699b8dfadd7c15129",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "8b53ae10ba6b05724df13e86365e9ae3",
@@ -27,9 +27,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d14768e9cd443a770684353b1beebe2b",
-"/": "d14768e9cd443a770684353b1beebe2b",
-"main.dart.js": "5eab678c16d827bcda8e4e9a96d27256",
+"index.html": "1d887f72e3be0963bc7e096f49551385",
+"/": "1d887f72e3be0963bc7e096f49551385",
+"main.dart.js": "3ce89c1f951edbb824e82e8ef11275e6",
 "manifest.json": "f6f541907987095cd695435d4bcf92e1",
 "version.json": "c266965ceeb0b234532fbdd6f631aa46"
 };
